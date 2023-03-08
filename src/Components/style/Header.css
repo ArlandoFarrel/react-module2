@@ -1,0 +1,107 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    /* font-style: none; */
+    font-family: 'Poppins';
+}
+
+body {
+    background: linear-gradient(to right, #0B0C10, #1F2833);
+    /* color: linear-gradient(#e66465, #9198e5);; */
+}
+
+
+.nav-list {
+    display: flex;
+}
+
+.nav-wrapper {
+    justify-content: space-between;
+    height: 80px;
+    background-color: rgba(255, 255, 255, 0);
+
+    width: 100%;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(191, 161, 129, );
+}
+
+.nav-list {
+    padding: 10px 50px;
+}
+
+.nav-list li {
+    /* border: 1px solid blue; */
+    margin: 0 1rem;
+    padding: 0 2rem;
+    color: yellow;
+}
+
+.nav-list li a {
+    color: #66FCF1;
+}
+
+.nav-list li a:hover {
+    color: #C5C6C7;
+}
+
+.nav-logo {
+    width: 25%;
+    background: linear-gradient(to right, #45A29E, #66FCF1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 10px 0;
+    
+}
+
+.nav-logo h1 {
+    margin: 0 auto;
+}
+
+.nav-list li .link-active {
+    color: #C5C6C7;
+    /* background-color: red; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
